@@ -6,19 +6,29 @@ Purpose: This project was based on a case concerning The Institute for Student A
 Question: The mediation assisted us in answering the following questions:
 How does past failure affect final grades? What is the relationship between these two? Does study time mediate this relationship?
 
+
 Variables:
 Independent Variable - Past Failures
+
 Mediating Variable - Study Time
+
 Dependent Variable - Final Grades
 
 Prediction: Predicted that the effect of Past Failures on final grade will be mediated by study time such that past failures will increase study time which will increase final grades.
 
+
 Results of Mediation
+
 Past Failures to Study Time: -.20
+
 Study Time to Final Grades: .20
+
 Total Effect: -2.22*
+
 Indirect: -0.03
+
 Direct PF on FG: -2.18*
+
 
 Result Description:The percentage of past failures significantly predicts final grades negatively, such that as past failures increase by unit, final grades decrease by 2.22. 
 The percentage of past failures predicts study time negatively, such that for every 1 unit increase in past failures, study time decreases by 0.20.
